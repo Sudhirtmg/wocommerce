@@ -1,0 +1,5 @@
+django
+pillow
+django-taggit
+django-shortuuidfield
+django-shopping-cart
